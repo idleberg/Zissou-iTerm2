@@ -21,4 +21,4 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 [1]: http://www.imdb.com/title/tt0362270/0
 [2]: https://raw.github.com/idleberg/Zissou-iTerm2/master/images/screenshot.gif
 [3]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-[4]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Zissou-iTerm2/&title=Zissou&20Color%20Schemes&description=Color%20scheme%20inspired%20by%20the%20Wes%20Anderson%20movie%20The%20Life%20Aquatic%20with%20Steve%20Zissou&language=en_GB&tags=zissou,life%20aquatic,wes%20anderson,color%20scheme,theme,syntax%20highlight,style-sheets&hidden=0&category=software
+[4]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Zissou-iTerm2/&title=Zissou%20Color%20Schemes&description=Color%20scheme%20inspired%20by%20the%20Wes%20Anderson%20movie%20The%20Life%20Aquatic%20with%20Steve%20Zissou&language=en_GB&tags=zissou,life%20aquatic,wes%20anderson,color%20scheme,theme,syntax%20highlight,style-sheets&hidden=0&category=software
